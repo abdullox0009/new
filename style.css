@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+    color: white;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.container{
+    background-color: #1F1F1F;
+}
